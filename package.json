@@ -1,7 +1,7 @@
 {
-  "name": "how-to-write-a-loader-demo",
+  "name": "webpack-loader",
   "version": "1.0.0",
-  "description": "手把手教你写一个 loader （demo）",
+  "description": "webpack-loader",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikcamp/How-to-write-a-loader-demo.git"
+    "url": "git+https://github.com/dsh225/webpack-loader"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ikcamp/How-to-write-a-loader-demo/issues"
+    "url": "https://github.com/dsh225/webpack-loader/issues"
   },
-  "homepage": "https://github.com/ikcamp/How-to-write-a-loader-demo#readme",
+  "homepage": "https://github.com/dsh225/webpack-loader#readme",
   "devDependencies": {
     "html-loader": "^0.5.1",
     "html-webpack-plugin": "^2.30.1",
